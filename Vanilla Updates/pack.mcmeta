@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "description": "A 2025 overhaul of Minecrafts textures, HUD, and sounds."
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 46},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 46},
+				"directory": "overlay_46"
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+Hello. This pack introduces multiple small changes that make Minecraft a more modern, more playable, and less annoying experience.
+
+To INSTALL:
+
+Navigate to C:\Users\<Your User>\AppData\Roaming\.Minecraft  folder. Pin it to quick access for later in the file explorer.
+
+Drop the "Vanilla Updates" folder into the "Resourcepacks" folder. You will load this resource pack when you launch Minecraft.
+
+For the mods you will need the latest version of Fabric. For anyone new to modding, don't worry. Fabric is essentially a barebones mod loader. It's safe, and open source (Trust me I'm in IT).
+So for Fabric, visit: "https://fabricmc.net/use/installer/", click download for windows, open your downloads folder and double click the JAR file to launch it.
+
+(!!!HELP THAT JAR FILE WON'T LAUNCH!!!)
+
+Worry not. You just don't have Java installed. Go to "https://www.java.com/en/" and download it there, same deal double click it and install, then install fabric above.
+
+ALMOST DONE!
+
+Cool, now that it's all done, open the mods folder and copy all the mods into the /Minecraft mods folder. These are the ones that will be loaded. If you want the world map, drop that in there too.
+
+Now open the Minecraft launcher, select Fabric as the version of Minecraft you launch (like selecting a different update) in the dropdown, then play.
+
+You are now done. Please enjoy, and read the settings.txt!
+

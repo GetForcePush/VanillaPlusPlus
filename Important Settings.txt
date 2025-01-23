@@ -1,0 +1,59 @@
+It is assumed you have everything installed and working by now.
+Remember to turn on the resource pack.
+
+First of all you can change the scrolling sounds by pressing escape, options, music and sounds, and in the top right corner click sounds.
+Click UI sounds and click Hotbar Scroll. Change it off, if you wish. There are plenty of other settings here too.
+Another thing you'll notice is the ambience. If it's too loud for you, type "/cmdclientconfig" in chat and hit "General". You can change the volume there.
+Pressing M will open the world map. I wouldn't recommend viewing the underground layers, its slightly cheaty, which I tried to avoid when making the pack but oh well.
+
+Anyway here's some patch notes:
+
+UI:
+- HUD retextured. Look at those hearts and armor.
+- UI items now make sounds when selected.
+- UI items will now expand when hovered over.
+- Scrolling is now smooth.
+- Rare tier or higher items such as enchanted items will now leave a trail when moved.
+- Hunger bar has been replaced with a food item players actually use, steaks.
+- Tool state visibly changes with use.
+- Durability values are now displayed when hovering over an item.
+- Hunger amount is now displayed when hovering over food.
+- Campfires have an animated sprite in the inventory.
+- A cheatsheet has been added to the brewing stand UI.
+- Text chat has a few animations to make it smoother.
+- Fixed sprite misalignment for buckets of different types
+
+UI Controls:
+- Mouse tweaks have been added. I can't sum it up here but this is the mod: "https://modrinth.com/mod/mouse-tweaks?version=1.21.4&loader=fabric"
+- GUI controls feel... better? You'll see.
+
+Atmosphere:
+- Added dust particles to caves.
+
+Audio:
+- Added sound physics. Caves echo and whatnot, things are quiet if behind a wall, etc.
+- Added ambience to the world. It is now longer silent. The volume is configured through "/cmdclientconfig"
+- Added new inventory open and close sounds
+- Added new crafting station open and close sounds
+- Added text chat sounds. They can be configured in the sounds option menu via "esc".
+- A few hostile mob sounds added and changed: Skeletons and spiders are the most notable.
+- Footstep sounds have been changed to more accurately represent the material being stepped on
+- Gravel sounds less annoying. Seriously. 
+- Cobblestone is slightly more crunchy to represent the fact that its several smaller stones being interacted with.
+- Player damage noises reverted to INFDEV "Oof" sounds.
+- Item pickup sound variation added, sounds like putting items in a backpack.
+- Sweeping edge sound changed.
+- Bow sounds changed.
+- Nether portals sound more sci-fi.
+- Enderman now make you crap your pants.
+- Cave noises have been changed to sound less dread inducing and more... cool.
+- Shield block sounds have been changed to add more variation.
+- A few block sounds have changed.
+
+Optional Gameplay Features:
+- Added World Map. Press M to view.
+
+Additional Notes:
+- Shader support included. If your pc is beefy, try the "Sildurs Enhanced Default" for a vanilla look.
+- Glass textures will now connect if you have both glass texture resource packs enabled.
+- Removed Herobrine.
